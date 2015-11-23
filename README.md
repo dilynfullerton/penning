@@ -1,5 +1,5 @@
 # penning
-A 3D visualization of a charged ion's trajectory inside an ideal Penning Trap (based on TITAN of TRIUMF). This animation was created as part of a project for UBC Undergraduate Research Organization.
+A 3D visualization of a charged ion's trajectory inside an ideal Penning Trap (based on TITAN of TRIUMF). This program was created as part of a project for UBC Undergraduate Research Organization.
 
 Mentor: Brian Kootte (TITAN Group at Triumf)
 Group: Dilyn Fullerton, Shiv Mittal, and Michael Stone
