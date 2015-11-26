@@ -20,7 +20,7 @@ ABOUT THE PROGRAM:
 - Renders a 3-D animation of a charged particle with given initial position and velocity inside a Penning Trap
 - Assumes ideal Penning Trap (i.e. Ideal electric, magnetic fields and perfect vacuum)
 - Loops according to a time step, producing the particle’s position based on parametric equations and parameters determined from initial conditions
-- Abstracted class structures allow for easy creation of arbitrary ions, penning trap parameters, and setups for use in the animation
+- Simple class structures allow for easy creation of arbitrary ions, penning trap parameters, and setups for use in the animation
 
 ----------------------------------------­----------------------------------------­---------------------------
 SOURCES:
