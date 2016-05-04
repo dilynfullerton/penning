@@ -1,10 +1,10 @@
 # penning
 A 3D visualization of a charged ion's trajectory inside an ideal
-Penning Trap (based on [TITAN](titan.triumf.ca) of TRIUMF).
+Penning Trap (based on [TITAN](http://titan.triumf.ca/) of TRIUMF).
 This program was created as part of a project for
-[UBC Undergraduate Research Organization](www.uroubc.ca).
+[UBC Undergraduate Research Organization](http://www.uroubc.ca/)
 
-**Mentor**: Brian Kootte (TITAN Group at Triumf)
+**Mentor**: Brian Kootte (TITAN Group at Triumf)  
 **Group**: Dilyn Fullerton, Shiv Mittal, and Michael Stone
 
 See  https://youtu.be/qSwObWUZUB4 for the program in action
@@ -27,7 +27,7 @@ specifications of TITAN at TRIUMF.
 ### ABOUT THE PROGRAM:
 
 * Designed entirely in Python 2 with visual library extension
-([vPython](www.vpython.org))
+([vPython](http://www.vpython.org/))
 * Renders a 3-D animation of a charged particle with given initial
 position and velocity inside a Penning Trap
 * Assumes ideal Penning Trap (i.e. Ideal electric, magnetic fields
